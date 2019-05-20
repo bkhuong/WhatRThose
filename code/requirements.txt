@@ -8,7 +8,7 @@ docopt==0.6.2
 fastai==1.0.51
 Flask==1.0.2
 Flask-WTF==0.14.2
-Jinja2==2.10
+Jinja2==2.10.1
 keras==2.2.4
 MarkupSafe==1.1.1
 nvidia-ml-py3==7.352.0
